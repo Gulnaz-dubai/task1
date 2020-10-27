@@ -316,7 +316,6 @@ footer .container{
 }
 .forms{
     color: #fff;
-
 }
 .forms-box{
 display: flex;
@@ -329,7 +328,6 @@ display: flex;
     background: #FFFFFF;
     border-radius: 10px;
     padding: 22px 33px;
-    /*color: #000000;*/
 }
 .sign-btn{
     background: #6EBBD3;
