@@ -71,7 +71,7 @@
        width: 100%;
    }
    .button{
-       display: inline-block;
+       text-align: center;
    }
    .more{
        width: 265px;
@@ -91,7 +91,7 @@
     }
     .more {
 
-        margin: 0 107px auto;
+
     }
     .input-type{
         width: 310px;
@@ -129,21 +129,22 @@
     }
     .forms-box{
         flex-direction: column;
+
     }
     .input-type{
-        width: 310px;
+        width: 342px;
         height: 50px;
         margin-bottom: 15px;
     }
     .sign-btn{
         margin-left: 0;
-        width: 310px;
+        width: 342px;
         height: 46px;
         padding: 13px 91px 26px;
     }
     .more {
 
-        margin: 0 107px auto;
+
     }
     footer .container{
        display: block;
