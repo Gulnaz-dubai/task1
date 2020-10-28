@@ -134,6 +134,7 @@ img {
     font-size: 18px;
     line-height: 22px;
     color: #000000;
+    border:none;
 }
 
 .filter-list {
@@ -158,7 +159,7 @@ img {
 
 }
 .item-box img{
-    width: 100%
+    width: 100%;
 }
 .row {
     display: flex;
@@ -203,9 +204,7 @@ img {
     color: #000000;
     padding: 0 29px;
 }
-.d-flex{
-    display: flex;
-}
+
 
 .item-box {
     margin-bottom: 30px;

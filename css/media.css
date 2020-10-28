@@ -72,16 +72,42 @@
    }
    .button{
        display: inline-block;
-       margin: 0 60px;
    }
    .more{
        width: 265px;
        height: 48px;
-       margin: 0;
+       margin: 0 0 0 5px;
    }
    .footer-title{
        display: none;
    }
+    .d-flex{
+       display: block;
+   }
+    forms-box {
+        flex-direction: column;
+        text-align: center;
+        display: block;
+    }
+    .more {
+
+        margin: 0 107px auto;
+    }
+    .input-type{
+        width: 310px;
+        height: 40px;
+        margin-bottom: 25px;
+        margin-right: 15px;
+    }
+    .sign-btn{
+        margin-left: 0;
+        width: 310px;
+        height: 46px;
+        padding: 13px 91px 26px;
+    }
+    footer .container{
+        display: block;
+    }
 }
 
 @media (max-width: 480px) {
@@ -114,6 +140,13 @@
         width: 310px;
         height: 46px;
         padding: 13px 91px 26px;
+    }
+    .more {
+
+        margin: 0 107px auto;
+    }
+    footer .container{
+       display: block;
     }
     }
 
