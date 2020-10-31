@@ -66,11 +66,15 @@
       <change afterPath="$PROJECT_DIR$/../task-tz/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/css/media.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/media.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/style.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -109,7 +113,10 @@
       <option name="presentableId" value="Default" />
       <updated>1603734907831</updated>
       <workItem from="1603734909207" duration="28560000" />
-      <workItem from="1603874321092" duration="1660000" />
+      <workItem from="1603874321092" duration="2114000" />
+      <workItem from="1604134808807" duration="555000" />
+      <workItem from="1604135805119" duration="217000" />
+      <workItem from="1604136099716" duration="312000" />
     </task>
     <servers />
   </component>

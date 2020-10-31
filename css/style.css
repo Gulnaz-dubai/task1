@@ -20,6 +20,7 @@ header {
     width: 100%;
     background: rgba(31, 32, 33, 0.79) url("../images/header-bkg.png") no-repeat center/cover;
     background-blend-mode: darken;
+
 }
 
 img {
@@ -30,6 +31,7 @@ img {
     display: flex;
     justify-content: space-between;
     align-items: center;
+
 }
 
 .top-menu-items {
